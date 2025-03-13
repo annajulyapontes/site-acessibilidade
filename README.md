@@ -15,5 +15,6 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 ## Link das imagens utilizadas no site:
 https://www.tnh1.com.br/noticia/nid/entenda-por-que-musica-de-tim-maia-lancada-em-1978-viralizou-nas-redes-sociais/ 
 https://aventurasnahistoria.com.br/noticias/historia-hoje/historias-desconhecidas-de-tim-maia-serao-contadas-em-premio-da-musica-brasileira.phtml 
-https://1023.clicrbs.com.br/blogda1023/2021/09/28/uma-breve-biografia-de-tim-maia/ 
+https://www1.folha.uol.com.br/webstories/cultura/2020/09/vida-e-obra-de-tim-maia/
 https://www.letras.mus.br/tim-maia/
+https://www4.ecad.org.br/noticias/tim-maia-o-eterno-sindico-completaria-76-anos-nesta-sexta-feira/
