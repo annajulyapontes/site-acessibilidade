@@ -83,8 +83,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/Photoroom_20250311_233235.png') top right no-repeat,
-        url('img/Photoroom_20250311_233221.png') bottom left no-repeat;
+    background: url('img/florAzul.png') top right no-repeat,
+        url('img/flor.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -117,7 +117,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('fundo');
+    background-image: url('img/fundo.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -192,7 +192,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #timmaia {
     background: none;
 }
 
