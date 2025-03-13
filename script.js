@@ -36,7 +36,6 @@ document.addEventListener('DOMContentLoaded', function(){
  
  
  })
- 
  ScrollReveal().reveal('#inicio', { delay: 500 });
  ScrollReveal().reveal('#timmaia', { delay: 500 });
  ScrollReveal().reveal('#galeria', { delay: 500 });
