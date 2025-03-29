@@ -18,3 +18,6 @@ https://aventurasnahistoria.com.br/noticias/historia-hoje/historias-desconhecida
 https://www1.folha.uol.com.br/webstories/cultura/2020/09/vida-e-obra-de-tim-maia/
 https://www.letras.mus.br/tim-maia/
 https://www4.ecad.org.br/noticias/tim-maia-o-eterno-sindico-completaria-76-anos-nesta-sexta-feira/
+
+## Link do vídeo utilizado no site:
+https://youtu.be/tPp9zkjfj7Q?si=DIygxHgp6QBtFrfO
